@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reporting", "Pajamas\Reporting.csproj", "{389CB167-5067-4B8B-ADC2-FB3C3E8DBC6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reportings", "Pajamas\Reportings.csproj", "{389CB167-5067-4B8B-ADC2-FB3C3E8DBC6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
