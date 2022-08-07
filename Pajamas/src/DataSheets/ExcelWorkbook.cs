@@ -15,7 +15,7 @@ namespace ActiveInactiveUsersReport.src.DataSheets
 
         public void Open()
         {
-            xl_application = new Application{ DisplayAlerts = false };
+            xl_application = new Application { DisplayAlerts = false, Visible = false };
             workbook = xl_application.Workbooks.Open(Path);
         }
 
